@@ -1,26 +1,32 @@
-### Hi there 👋
+# Hi there 👋
 
 Hello! I'm Isha Paranjpe, a junior data scientist based in Mumbai, India.🌆
+
 Currently, I'm pursuing a B.Tech in Data Science at NMIMS Mumbai.📚
 
-## About Me 🚀
+### About Me 🚀
 
-I'm always curious and eager to learn, especially when it comes to data science, history, space and sports. I love diving into real-life problems and finding creative solutions. 
+I'm always curious and eager to learn, especially when it comes to data science, history, space and sports. 
 
-## 🌟 My Passion for Data
+I love diving into real-life problems and finding creative solutions. 
+
+### 🌟 My Passion for Data
 
 I'm deeply passionate about the world of Artificial Intelligence, Machine Learning and Deep Learning, with a particular focus on Computer Vision (CV) and Natural Language Processing (NLP). 
+
 My journey in data science has led me to explore the exciting realms of MLOps, DevOps, Cloud Computing and Big Data. 💡
 
-## 💼 What I'm Up To
+### 💼 What I'm Up To
 
-I'm constantly exploring and working on various data science projects to apply my knowledge and gain hands-on experience. These projects allow me to bridge the gap between theory and practice, and I'm always eager to learn new things and hone my skills in this ever-evolving field. 🛠️
+I'm constantly exploring and working on various data science projects to apply my knowledge and gain hands-on experience. 
 
-## 🌱 Interests Beyond Data
+These projects allow me to bridge the gap between theory and practice, and I'm always eager to learn new things and hone my skills in this ever-evolving field. 🛠️
+
+### 🌱 Interests Beyond Data
 
 When I'm not immersed in data and code, you can find me enjoying my love for sports 🏀, binge watching my favourite movies 🎬, getting lost in a good book 📖, or simply enjoying the therapeutic power of music 🎵.
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 I'm always open to new opportunities, collaborations, and discussions. If you share a passion for AI, data science, or just want to connect, feel free to reach out to me via:
 - Email: [ishaparanjpe.work@gmail.com](mailto:ishaparanjpe.work@gmail.com)
