@@ -2,7 +2,7 @@
 
 Hello! I'm Isha Paranjpe, a junior data scientist based in Mumbai, India.🌆
 
-### About Me 🚀
+### 🚀 About Me 
 
 I'm always curious and eager to learn, especially when it comes to data science, history, space and sports. 
 I love diving into real-life problems and finding creative solutions. 
@@ -19,7 +19,7 @@ These projects allow me to bridge the gap between theory and practice, and I'm a
 
 ### 🌱 Interests Beyond Data
 
-When I'm not immersed in data and code, you can find me enjoying my love for sports 🏀, binge watching my favourite movies 🎬, getting lost in a good book 📖, or simply enjoying the therapeutic power of music 🎵.
+When I'm not immersed in data and code, you can find me enjoying my love for sports 🏀, binge watching my favourite movies 🎬, getting lost in a good book 📖, or simply jamming to some music 🎵.
 
 ### 📫 Let's Connect
 
