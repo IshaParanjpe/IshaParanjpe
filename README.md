@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 
 
 Hello! I'm Isha Paranjpe, a junior data scientist based in Mumbai, India.🌆
 
