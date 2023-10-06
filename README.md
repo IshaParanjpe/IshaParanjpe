@@ -1,5 +1,5 @@
 ### 🚀 About Me 
-Hello! I'm Isha Paranjpe, a junior data scientist based in Mumbai, India.🌆
+Hello! I'm Isha Paranjpe, a junior data scientist based in Mumbai, India.
 I'm always curious and eager to learn, especially when it comes to data science, history, space and sports. 
 I love diving into real-life problems and finding creative solutions. 
 
