@@ -1,9 +1,9 @@
 ### 🚀 About Me 
 Hello! I'm Isha Paranjpe, a junior data scientist based in Mumbai, India.
-- I'm deeply passionate about Computer Vision, NLP and Machine Learning
+- I'm deeply passionate about Computer Vision, NLP and Machine Learning.
 - I'm always curious and eager to learn, especially when it comes to data science, history, space and sports. 
 - I love diving into real-life problems and finding creative solutions. 
-- Beyond data, I enjoy sports, movies, books, and music
+- Beyond data, I enjoy sports, movies, books, and music!
 
 ### 📫 Let's Connect
 
